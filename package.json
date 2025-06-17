@@ -2,7 +2,7 @@
   "name": "com.kuaishou.minigame",
   "displayName": "KuaiShouSDK",
   "description": "KusiShou Mini Game Tuanjie Engine Adapter SDK Package.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "unity": "2019.4",
   "unityRelease": "29f1",
   "keywords": [
